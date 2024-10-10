@@ -1,0 +1,128 @@
+ body {
+      background-color: #202020; 
+      margin: 0;  
+      padding: 0; 
+    }
+    
+  
+.main
+{
+    height:1150px;
+    width:25%;
+    background-color: black;
+    margin-left:550px;
+    margin-top:10px;
+   
+}
+.header
+{
+   padding-top:30px;
+   margin-left:25px;
+}
+.name{
+ 
+  color:white;
+  padding-left:80px;
+  padding-bottom:0px;
+ 
+
+}
+.designation
+{
+  color:#D3D3D3;
+  padding-left:50px;
+  padding-bottom:20px;
+ 
+ 
+}
+.buttons{
+   margin-top:20px;
+}
+
+.about
+{
+    margin-top:12px;
+}
+.heading
+{
+   color:#F2EED7;
+   margin-left:35px;
+   margin-top:21px;
+}
+p{
+   color:#D3D3D3;
+   margin-right:10px;
+   margin-left:33px;
+   line-height:22px;
+   margin-top:10px;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+.footer
+{
+   height:100px;
+   display:flex;
+   margin-top:12px;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.footer > img
+{
+   background-color: black;
+}
+.icon
+{
+   color:grey;
+   font-size:25px;
+}
+.buttons
+{
+   display:flex;
+   align-items: center;
+   margin-top:12px;
+}
+.icons1
+{
+    height:30px;
+    width:120px;
+    background-color:#D3D3D3;
+    border-radius: 2%;
+    margin-left:12px;
+}
+.envelope
+{
+    color:black;
+    padding-top:8px;
+    padding-left:20px;
+    padding-right:20px;
+    position: absolute;
+   
+}
+.email
+{
+   color:black;
+   padding-top:5px;
+   padding-left:15px;
+   position: relative;
+   margin-top:1px;
+   padding-right:15px;
+   
+
+}
+.icons2
+{
+    height:30px;
+    width:120px;
+    background-color:skyblue;
+    border-radius: 2%;
+    margin-left:50px;
+    
+}
+.envelope1
+{
+   color:white;
+    padding-top:8px;
+    padding-left:20px;
+    padding-right:20px;
+    position: absolute;
+}
